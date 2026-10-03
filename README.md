@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- ===================== HERO BANNER ===================== -->
+<!-- ===================== HERO: ANIMATED NEURAL NETWORK ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:312E81,100:7C3AED&text=Dnyaneshwari%20Pawale&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20GenAI%20%7C%20RAG%20%7C%20Agentic%20AI&descAlignY=60&descSize=19&animation=fadeIn" width="100%"/>
+<img src="neural-hero.svg" width="100%" alt="Dnyaneshwari Pawale - animated neural network banner"/>
 
 <br>
 
@@ -128,13 +128,9 @@ I'm particularly interested in building AI systems that can **retrieve knowledge
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,cs,go,c,r,sql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,cs,go,c,r" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 `Python` • `C++` • `Java` • `C#` • `Go` • `C` • `R` • `SQL`
 
@@ -620,6 +616,8 @@ It means understanding the **problem**, choosing the right **data and architectu
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:312E81,100:0F172A"/>
+<!-- ===================== FOOTER: ANIMATED NEURAL NETWORK ===================== -->
+
+<img src="neural-footer.svg" width="100%" alt="Animated neural network footer"/>
 
 </div>
